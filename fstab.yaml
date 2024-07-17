@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: "https://author-p117303-e1145208.adobeaemcloud.com/bin/franklin.delivery/alessandrogiupponi/edge-ds-tutorial/main"
+    url: "https://author-p117303-e1145208.adobeaemcloud.com/bin/franklin.delivery/alessandrogiupponi/edge-delivery-tutorial/main"
     type: "markup"
     suffix: ".html"

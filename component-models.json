@@ -204,24 +204,5 @@
         "value": ""
       }
     ]
-  },
-  {
-    "id": "pippo",
-    "fields": [
-      {
-        "component": "text-area",
-        "name": "pippo",
-        "value": "",
-        "label": "Pippo",
-        "valueType": "string"
-      },
-      {
-        "component": "text-input",
-        "valueType": "string",
-        "name": "author",
-        "label": "Author",
-        "value": ""
-      }
-    ]
   }
 ]

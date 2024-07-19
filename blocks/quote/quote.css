@@ -18,14 +18,14 @@
     position: relative;
 }
 
-.block.quote bg-green {
+.block.quote.bg-green {
     background-color: green;
 }
 
-.block.quote bg-red {
+.block.quote.bg-red {
     background-color: red;
 }
 
-.block.quote bg-blue {
-    background-color: dodgerblue;
+.block.quote.bg-blue {
+    background-color: dodgerblue !important;
 }

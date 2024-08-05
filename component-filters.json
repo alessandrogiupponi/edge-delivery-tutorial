@@ -32,6 +32,12 @@
     ]
   },
   {
+    "id": "carousel",
+    "components": [
+      "hero"
+    ]
+  },
+  {
     "id": "cards",
     "components": [
       "card"
